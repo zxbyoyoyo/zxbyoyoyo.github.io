@@ -123,7 +123,7 @@ comments:
   gitalk:
     clientID    : 13c3fdce91165a5b2acf # GitHub Application Client ID
     clientSecret: 193b99e77511bb95e0aa8c955aa4c4bbebbc5b97 # GitHub Application Client Secret
-    repository  : gittalk-repo   # GitHub repo
+    repository  : zxbyoyoyo.github.io   # GitHub repo
     owner       : zxbyoyoyo # GitHub repo owner
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - zxbyoyoyo # - your GitHub Id
