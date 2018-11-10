@@ -112,7 +112,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: gitalk # false (default), "disqus", "gitalk", "custom"
+  provider: custom # false (default), "disqus", "gitalk", "custom"
 
   ## Disqus
   disqus:
@@ -136,7 +136,7 @@ pageview:
 
   ## Leancloud
   leancloud:
-    app_id    : 2N0HiY2bvQH3yX9vFXwgDCCl
+    app_id    : 2N0HiY2bvQH3yX9vFXwgDCCl-gzGzoHsz
     app_key   : XltTLIvEsHMIsWqlUfJyoweD
     app_class : blogclick
 
