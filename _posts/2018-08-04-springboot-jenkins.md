@@ -1,7 +1,7 @@
 ---
 title: 使用jenkins部署spring boot项目
 key: 20180804
-tags: java
+tags: jenkins
 aside:
   toc: true
 excerpt_separator: <!--more-->
@@ -280,8 +280,7 @@ esac
 
 ## 部署语法 ##
 
-![1543724160298](C:\Users\59690\AppData\Roaming\Typora\typora-user-images\1543724160298.png)
-
+![enter description here](https://i.loli.net/2018/12/02/5c036ef8ec66b.jpg "1543724160298")
 ```
 #!/bin/bash -l
 
