@@ -1,5 +1,5 @@
 ---
-title: SpringBoot2 配置Druid、Mybatis、redis
+title: SpringBoot2 configures Druid, Mybatis, redis
 key: 20180410
 tags: SpringBoot
 aside:

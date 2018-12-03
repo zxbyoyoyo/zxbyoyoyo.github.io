@@ -1,7 +1,7 @@
 ---
-title: Tensorflow学习
+title: Getting started with Tensorflow 
 key: 20170910
-tags: tensorflow 'machine learn' 
+tags: ["tensorflow","machine learn"] 
 aside:
   toc: true
 excerpt_separator: <!--more-->

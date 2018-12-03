@@ -1,5 +1,5 @@
 ---
-title: 使用jenkins部署spring boot项目
+title: Deploy spring boot project with jenkins
 key: 20180804
 tags: jenkins
 aside:

@@ -1,5 +1,5 @@
 ---
-title: Elastic单机多节点集群搭建
+title: ElasticSearch cluster construction
 key: 20181110
 tags: Elasticsearch
 aside:

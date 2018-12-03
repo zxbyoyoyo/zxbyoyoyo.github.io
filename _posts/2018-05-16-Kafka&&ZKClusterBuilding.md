@@ -1,5 +1,5 @@
 ---
-title: Kafka和Zookeeper集群搭建
+title: Kafka and Zookeeper cluster construction
 key: 20180516
 tags: zookeeper kafka clustershell
 aside:
