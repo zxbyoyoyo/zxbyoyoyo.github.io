@@ -1,7 +1,7 @@
 ---
 title: Deploy spring boot project with jenkins
 key: 20180804
-tags: jenkins
+tags: ["jenkins","spring boot"]
 aside:
   toc: true
 excerpt_separator: <!--more-->

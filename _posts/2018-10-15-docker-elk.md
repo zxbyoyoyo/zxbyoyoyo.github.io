@@ -1,7 +1,7 @@
 ---
 title: Docker builds elk
 key: 20181015
-tags: Elasticsearch
+tags: docker
 aside:
   toc: true
 excerpt_separator: <!--more-->
@@ -9,7 +9,7 @@ excerpt_type: text # text (default), html
 ---
 
 
-## 序 ##
+
 
 ELK是开源日志界的三大剑客，本文主要讲怎么在docker里头跑起来这一套东东。
 <!--more-->

@@ -1,7 +1,7 @@
 ---
 title: SpringBoot2 configures Druid, Mybatis, redis
 key: 20180410
-tags: SpringBoot
+tags: ["spring boot"]
 aside:
   toc: true
 excerpt_separator: <!--more-->

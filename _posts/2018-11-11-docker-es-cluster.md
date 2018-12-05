@@ -1,7 +1,7 @@
 ---
 title: Docker Compose builds Elasticsearch cluster
-key: 20181015
-tags: Elasticsearch
+key: 20181111
+tags: docker
 aside:
   toc: true
 excerpt_separator: <!--more-->
@@ -9,9 +9,8 @@ excerpt_type: text # text (default), html
 ---
 
 
-## 序 ##
 
-使用Docker进行Elasticsearch集群非常简单。在这篇文章中，将会说明如何快速简便地在docker上运行3节点elasticsearch集群进行测试。
+使用Docker进行Elasticsearch集群搭建非常简单。下面将展示 如何快速简便地在docker上运行3节点elasticsearch集群进行测试。
 <!--more-->
 
 ## 先决条件 ##
@@ -21,7 +20,7 @@ excerpt_type: text # text (default), html
 需要设置`vm.max_map_count`内核参数：
 
 ```
-`$ sudo sysctl -w vm.max_map_count=262144 `
+$ sudo sysctl -w vm.max_map_count=262144 
 ```
 
 要永久设置，请将其添加到`/etc/sysctl.conf`并重新加载`sudo sysctl -p`
